@@ -1,7 +1,7 @@
 **AI-Powered Smart Interview Guidance Assistant**
 
 1️.Project Overview:
--An AI-based tool to simulate interview practice.**
+/-An AI-based tool to simulate interview practice./
 -Uses Natural Language Processing (NLP) to analyze user responses.
 -provides feedback, sentiment analysis, confidence score, and improvement tips.
 -Helps candidates prepare for interviews effectively.
